@@ -299,6 +299,10 @@ footer {
     border-radius: 10px 19px;
 }
 
+iframe {
+    margin-bottom: 50px;
+}
+
 .redes2 {
     background-color: rgb(44, 44, 44);
     padding: 18px;
